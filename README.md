@@ -7,5 +7,6 @@ Input:
   3. Subset sum to be obtained
 
 Output:
-  DFS path traversed to obtain the results
+
+  DFS path traversed to obtain the subset sum
   
