@@ -1,12 +1,8 @@
-# SubsetSum
-Finding the subset sum of a given array using DFS
+# SubsetSum using DFS
+[geeksforgeeks](https://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/)
+>Given a set of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum.
 
-Input:
-  1. Array Length
-  2. Array Elements
-  3. Subset sum to be obtained
+I have used the DFS approach while solving this problem.
 
-Output:
-
-  DFS path traversed to obtain the subset sum
+The `state` class is used to store the current state containing the weight, sum and already visited elements of the array.
   
